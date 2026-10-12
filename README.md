@@ -1,6 +1,6 @@
 macOS Monterey EFI for the Dell Latitude 7480 using OpenCore. I will try to keep this EFI up to date with the latest OpenCore and kexts
 
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/3a884e4d-7c08-45ed-a24c-025060b14f9a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/230df306-b337-4a86-a883-85dcd530ca9b" />
 
 
 # WARNING! SMBIOS DETAILS ARE NOT INCLUDED IN THE CONFIG.PLIST.
